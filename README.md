@@ -1,5 +1,4 @@
-# Vent-Tv 
-#EXTM3U
+#Vent Tv
 #EXTINF:-1    group-title="Streams",NBC US
 http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8
 #EXTINF:-1    group-title="Streams",A&E
